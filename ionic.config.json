@@ -1,0 +1,7 @@
+{
+  "name": "appbaru",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
